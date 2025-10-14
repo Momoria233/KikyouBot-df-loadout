@@ -136,7 +136,11 @@ export default function GunTable({ csvUrl = "loadout.csv" }) {
                               onClick={() => setPreviewImg(row[col])}
                             >
                               <img
-                                src={row[col]}
+                                src={
+                                  row[col].startsWith("http")
+                                    ? row[col]
+                                    : `${import.meta.env.BASE_URL}${row[col]}`
+                                }
                                 alt="预览"
                                 className="object-cover w-10 h-10 rounded border border-gray-400"
                               />
@@ -188,7 +192,11 @@ export default function GunTable({ csvUrl = "loadout.csv" }) {
           onClick={() => setPreviewImg(null)}
         >
           <img
-            src={previewImg}
+            src={
+              previewImg.startsWith("http")
+                ? previewImg
+                : `${import.meta.env.BASE_URL}${previewImg}`
+            }
             alt="大图"
             className="w-auto max-w-[80vw] max-h-[80vh] rounded shadow-lg border-2 border-indigo-400 bg-white"
             onClick={e => e.stopPropagation()}
