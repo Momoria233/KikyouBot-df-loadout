@@ -1,0 +1,5 @@
+id,name,category,range,tier,attachments,备注,备注2,测试
+1,SA-B50,步枪,中近,T0.5,"枪口: FR补偿; 瞄具: 低倍镜; 弹匣: 50发",beizhu,123,tet
+2,P890,手枪,近战,T1,"枪口: L400; 握把: VX掌握; 弹匣: 10发",beizhu,test,test
+3,M4,突击步枪,中距,T1.5,"枪口: XTEN抑制; 握把: VX; 瞄具: 光学红点",beizhu,test,test
+4,ceshu,测试,中距,T1.5,测试,测试,测试,测试
