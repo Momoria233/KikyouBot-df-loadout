@@ -8,7 +8,7 @@ export default function GunTable({ csvUrl = "loadout.csv" }) {
   const [previewImg, setPreviewImg] = useState(null);
 
   useEffect(() => {
-    Papa.parse(csvUrl, {
+    Papa.parse(`${import.meta.env.BASE_URL}${csvUrl}?v=${Date.now()}`, {
       download: true,
       header: true,
       skipEmptyLines: true,
