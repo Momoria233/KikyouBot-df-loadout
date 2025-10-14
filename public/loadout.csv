@@ -1,26 +1,26 @@
 枪械名称,类型,价格,核心配件,改枪码,备注,图片
-k416,丐版,26-28w,实用消焰器，A8枪管，侵略枪托，D-2后握把，RK-0前握把,K416突击步枪-烽火地带-6HRFAAG0E4A21AQNOF0DJ,虽然是丐版但还有很多优化空间,/images/k416-00.png
-k416,半改,32w,相比丐版替换了钢制膛口和棱镜二倍，加了镭射,K416突击步枪-烽火地带-6HRFAUG0E4A21AQNOF0DJ,如果有砖皮可以大幅改善枪焰问题，如果不能接受枪口可以换薪火,/images/k416-01.png
-k416,小满改,38w,替换了先进多口径消音，加了后坐力贴片,K416突击步枪-烽火地带-6HRFBSO0E4A21AQNOF0DJ,最常用的方案，射程37米机密绝密都能打,/images/k416-02.png
-k416,满改,53w,"MERGE: 两种不同改法，见图","K416突击步枪-烽火地带-6HRFCL00E4A21AQNOF0DJ","更稳定的改法。如果需要机动可以换416-c托",/images/k416-03.png
-k416,满改,54w,"",K416突击步枪-烽火地带-6HRFCLK0E4A21AQNOF0DJ,满射程改法,/images/k416-04.png
-mk47,丐版,25w,钛金制退器，破晓垂直，AR-MOE后握，侵略核心枪托,MK47突击步枪-烽火地带-6HRFNC00E4A21AQNOF0DJ,只推荐机密场使用，这枪不装枪管五蛋打125五甲下腹四枪打不死,/images/mk47-00.png
-mk47,满改,67w,钛金+共振二+UR托，富哥可以上模块化AR后握,MK47突击步枪-烽火地带-6HRFNN00E4A21AQNOF0DJ,理解偷的聪聪的，这枪就是得堆后坐力控制，双垂直/水平收益不高,/images/mk47-01.png
-kc17,半改,32(35w),短枪管+pbs+rk0+ar moe以及kc17专属枪托,KC17突击步枪-烽火地带-6HRFUP40E4A21AQNOF0DJ,这枪现在可以卡几万的假账，枪托属性好到离谱不过长得是真难看,/images/kc17-00.png
-k437,半改,33w,长枪管,K437突击步枪-烽火地带-6HRFVKG0E4A21AQNOF0DJ,挺均衡一个枪，好久以前改的，没啥印象了,/images/k437-00.png
-腾龙,满改,45w,高速导气，现金多口径消音，兵锋握把,腾龙突击步枪-烽火地带-6HRGFVO0E4A21AQNOF0DJ,这枪是我以前玩二号位主打的，只不过还是有点抢鼠标,/images/191-00.png
-ASh-12,半改,29w,MERGE: 泰坦消音，长枪管，CR阻手,ASh-12战斗步枪-烽火地带-6HRG1A80E4A21AQNOF0DJ,机密场好用,/images/ash12-00.png
-ASh-12,满改,48w,,ASh-12战斗步枪-烽火地带-6HRG2FK0E4A21AQNOF0DJ,磁悬浮机瞄有没有懂的，说起来我还挺喜欢这么打的,/images/ash12-01.png
-AUG,半改,29w,制式套改法,AUG突击步枪-烽火地带-6HRG6M40E4A21AQNOF0DJ,好吧，其实我就喜欢用制式套这个AUG,/images/aug-00.png
-M7,满改,67w,提风+现金多口径+共振一,M7战斗步枪-烽火地带-6HRG8F80E4A21AQNOF0DJ,标准满改改法,/images/m7-00.png
-M14,满改,78w,双垂直+短管+影袭导轨,M14射手步枪-烽火地带-6HF0VGO0BUSC4ICNIF6TI,短管改法来自@尉迟云辰，但是我不会玩（,/images/m14-00.png
-QBZ-95,半改,19w,MERGE: 长弓组合，剩下这枪也没啥可改的,QBZ95-1突击步枪-烽火地带-6HRGB4C0E4A21AQNOF0DJ,MERGE: 最优质的战士,/images/qbz95-00.png
-QBZ-95,满改,35w,,QBZ95-1突击步枪-烽火地带-6HRGAMG0E4A21AQNOF0DJ,,/images/qbz95-01.png
-g3,半改,20w,标准枪管，钢制膛口+侵略托+破晓垂直+psg1后握,G3战斗步枪-烽火地带-6HRFS5C0E4A21AQNOF0DJ,这枪怎么改都不会出问题，对吧...?,/images/g3-00.png
-g3,慎用,23w,大弹鼓死寂短管无托腰射流,G3战斗步枪-烽火地带-6HRFTS80E4A21AQNOF0DJ,拿这个枪在机坝灭过队，至于怎么灭的你别管,/images/g3-01.png
-SCAR-H,慎用,41w,大弹鼓死寂短管无托双休流,SCAR-H战斗步枪-烽火地带-6HRG4B00E4A21AQNOF0DJ,拿这个枪在机坝没灭过队,/images/scarh-00.png
-AKM,粑粑流,12w,反射式瞄准镜,AKM突击步枪-烽火地带-6HRGCFG0E4A21AQNOF0DJ,标准粑粑流,/images/akm-00.png
-AKM,粑粑流Pro,15w,俄式消音器,AKM突击步枪-烽火地带-6HRGE200E4A21AQNOF0DJ,粑粑流Pro,/images/akm-01.png
-AKM,粑粑流Ultra,16w,MERGE:俄式消音，实用长枪管,AKM突击步枪-烽火地带-6HRGCOK0E4A21AQNOF0DJ,粑粑流Ultra,/images/akm-02.png
-AKM,半改,26w,,AKM突击步枪-烽火地带-6HRGD340E4A21AQNOF0DJ,机密场好用,/images/akm-03.png
-M4A1,小满改,36w,模块化AR其实很猛，但是太贵了用不起,M4A1突击步枪-烽火地带-6HRGE8O0E4A21AQNOF0DJ,好像是制式改法...?,/images/m4a1-00.png
+k416,丐版,26-28w,实用消焰器，A8枪管，侵略枪托，D-2后握把，RK-0前握把,K416突击步枪-烽火地带-6HRFAAG0E4A21AQNOF0DJ,虽然是丐版但还有很多优化空间,images/k416-00.png
+k416,半改,32w,相比丐版替换了钢制膛口和棱镜二倍，加了镭射,K416突击步枪-烽火地带-6HRFAUG0E4A21AQNOF0DJ,如果有砖皮可以大幅改善枪焰问题，如果不能接受枪口可以换薪火,images/k416-01.png
+k416,小满改,38w,替换了先进多口径消音，加了后坐力贴片,K416突击步枪-烽火地带-6HRFBSO0E4A21AQNOF0DJ,最常用的方案，射程37米机密绝密都能打,images/k416-02.png
+k416,满改,53w,"MERGE: 两种不同改法，见图","K416突击步枪-烽火地带-6HRFCL00E4A21AQNOF0DJ","更稳定的改法。如果需要机动可以换416-c托",images/k416-03.png
+k416,满改,54w,"",K416突击步枪-烽火地带-6HRFCLK0E4A21AQNOF0DJ,满射程改法,images/k416-04.png
+mk47,丐版,25w,钛金制退器，破晓垂直，AR-MOE后握，侵略核心枪托,MK47突击步枪-烽火地带-6HRFNC00E4A21AQNOF0DJ,只推荐机密场使用，这枪不装枪管五蛋打125五甲下腹四枪打不死,images/mk47-00.png
+mk47,满改,67w,钛金+共振二+UR托，富哥可以上模块化AR后握,MK47突击步枪-烽火地带-6HRFNN00E4A21AQNOF0DJ,理解偷的聪聪的，这枪就是得堆后坐力控制，双垂直/水平收益不高,images/mk47-01.png
+kc17,半改,32(35w),短枪管+pbs+rk0+ar moe以及kc17专属枪托,KC17突击步枪-烽火地带-6HRFUP40E4A21AQNOF0DJ,这枪现在可以卡几万的假账，枪托属性好到离谱不过长得是真难看,images/kc17-00.png
+k437,半改,33w,长枪管,K437突击步枪-烽火地带-6HRFVKG0E4A21AQNOF0DJ,挺均衡一个枪，好久以前改的，没啥印象了,images/k437-00.png
+腾龙,满改,45w,高速导气，现金多口径消音，兵锋握把,腾龙突击步枪-烽火地带-6HRGFVO0E4A21AQNOF0DJ,这枪是我以前玩二号位主打的，只不过还是有点抢鼠标,images/191-00.png
+ASh-12,半改,29w,MERGE: 泰坦消音，长枪管，CR阻手,ASh-12战斗步枪-烽火地带-6HRG1A80E4A21AQNOF0DJ,机密场好用,images/ash12-00.png
+ASh-12,满改,48w,,ASh-12战斗步枪-烽火地带-6HRG2FK0E4A21AQNOF0DJ,磁悬浮机瞄有没有懂的，说起来我还挺喜欢这么打的,images/ash12-01.png
+AUG,半改,29w,制式套改法,AUG突击步枪-烽火地带-6HRG6M40E4A21AQNOF0DJ,好吧，其实我就喜欢用制式套这个AUG,images/aug-00.png
+M7,满改,67w,提风+现金多口径+共振一,M7战斗步枪-烽火地带-6HRG8F80E4A21AQNOF0DJ,标准满改改法,images/m7-00.png
+M14,满改,78w,双垂直+短管+影袭导轨,M14射手步枪-烽火地带-6HF0VGO0BUSC4ICNIF6TI,短管改法来自@尉迟云辰，但是我不会玩（,images/m14-00.png
+QBZ-95,半改,19w,MERGE: 长弓组合，剩下这枪也没啥可改的,QBZ95-1突击步枪-烽火地带-6HRGB4C0E4A21AQNOF0DJ,MERGE: 最优质的战士,images/qbz95-00.png
+QBZ-95,满改,35w,,QBZ95-1突击步枪-烽火地带-6HRGAMG0E4A21AQNOF0DJ,,images/qbz95-01.png
+g3,半改,20w,标准枪管，钢制膛口+侵略托+破晓垂直+psg1后握,G3战斗步枪-烽火地带-6HRFS5C0E4A21AQNOF0DJ,这枪怎么改都不会出问题，对吧...?,images/g3-00.png
+g3,慎用,23w,大弹鼓死寂短管无托腰射流,G3战斗步枪-烽火地带-6HRFTS80E4A21AQNOF0DJ,拿这个枪在机坝灭过队，至于怎么灭的你别管,images/g3-01.png
+SCAR-H,慎用,41w,大弹鼓死寂短管无托双休流,SCAR-H战斗步枪-烽火地带-6HRG4B00E4A21AQNOF0DJ,拿这个枪在机坝没灭过队,images/scarh-00.png
+AKM,粑粑流,12w,反射式瞄准镜,AKM突击步枪-烽火地带-6HRGCFG0E4A21AQNOF0DJ,标准粑粑流,images/akm-00.png
+AKM,粑粑流Pro,15w,俄式消音器,AKM突击步枪-烽火地带-6HRGE200E4A21AQNOF0DJ,粑粑流Pro,images/akm-01.png
+AKM,粑粑流Ultra,16w,MERGE:俄式消音，实用长枪管,AKM突击步枪-烽火地带-6HRGCOK0E4A21AQNOF0DJ,粑粑流Ultra,images/akm-02.png
+AKM,半改,26w,,AKM突击步枪-烽火地带-6HRGD340E4A21AQNOF0DJ,机密场好用,images/akm-03.png
+M4A1,小满改,36w,模块化AR其实很猛，但是太贵了用不起,M4A1突击步枪-烽火地带-6HRGE8O0E4A21AQNOF0DJ,好像是制式改法...?,images/m4a1-00.png
