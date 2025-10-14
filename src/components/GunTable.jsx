@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Papa from "papaparse";
 
-export default function GunTable({ csvUrl = "/loadout.csv" }) {
+export default function GunTable({ csvUrl = "loadout.csv" }) {
   const [rows, setRows] = useState([]);
   const [columns, setColumns] = useState([]);
   const [mergeMap, setMergeMap] = useState([]);

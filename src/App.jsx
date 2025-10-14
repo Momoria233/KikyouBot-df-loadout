@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import GunTable from "./components/GunTable";
 
 export default function App() {
-  const [csvUrl, setCsvUrl] = useState("/loadout.csv");
+  const [csvUrl, setCsvUrl] = useState("loadout.csv");
   const [ModeType, setModeType] = useState("摸金");
   let Description;
   if (ModeType === "摸金") {
@@ -27,14 +27,14 @@ export default function App() {
           <div className="flex justify-center mb-6">
             <button
               className={`px-4 py-2 rounded-l bg-indigo-500 text-white font-bold ${csvUrl === "/loadout.csv" ? "" : "opacity-60"}`}
-              onClick={() => setCsvUrl("/loadout.csv")}
+              onClick={() => setCsvUrl("loadout.csv")}
               onClickCapture={() => setModeType("摸金")}
             >
               摸金
             </button>
             <button
               className={`px-4 py-2 rounded-r bg-indigo-500 text-white font-bold ml-1 ${csvUrl === "/battlefield_loadout.csv" ? "" : "opacity-60"}`}
-              onClick={() => setCsvUrl("/battlefield_loadout.csv")}
+              onClick={() => setCsvUrl("battlefield_loadout.csv")}
               onClickCapture={() => setModeType("大战场")}
             >
               大战场
