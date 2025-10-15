@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import GunTable from "./components/GunTable";
 
 export default function App() {
-  const [csvUrl, setCsvUrl] = useState("loadout_251015.csv");
+  const [csvUrl, setCsvUrl] = useState("loadout_251015new.csv");
   const [ModeType, setModeType] = useState("摸金");
   let Description;
   if (ModeType === "摸金") {
@@ -26,8 +26,8 @@ export default function App() {
         <div className="bg-zinc-700/90 rounded-2xl shadow-lg p-8 mb-10 text-black">
           <div className="flex justify-center mb-6">
             <button
-              className={`px-4 py-2 rounded-l bg-indigo-500 text-white font-bold ${csvUrl === "loadout_251015.csv" ? "" : "opacity-60"}`}
-              onClick={() => setCsvUrl("loadout.csv")}
+              className={`px-4 py-2 rounded-l bg-indigo-500 text-white font-bold ${csvUrl === "loadout_251015new.csv" ? "" : "opacity-60"}`}
+              onClick={() => setCsvUrl("loadout_251015new.csv")}
               onClickCapture={() => setModeType("摸金")}
             >
               摸金
@@ -44,6 +44,9 @@ export default function App() {
             {Description}
           </p>
           <GunTable csvUrl={csvUrl} />
+        </div>
+        <div className="text-center"> 
+          <p>仍未收录的枪械：<br/>CAR-15, SG552, 野牛, M870, PSG-1, SR9, SKS, SVD, M1911, G17, 沙漠之鹰, QSZ92G<br/>和所有轻机枪</p>
         </div>
       </main>
 
